@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# UMMGC Tickets Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the code for the University of Michigan Men's Glee Club's ticket tracking website, which tracks how many tickets each member of the club has sold for the upcoming concert. This will provide more visibility into the ticket sales numbers, which will reduce the number of questions asked to the Tickets Manager. It will also increase competition among club members and sections, which will increase sales. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Instructions for building and running the website locally are below.
 
 ## Available Scripts
 
